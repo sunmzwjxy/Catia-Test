@@ -1,0 +1,19 @@
+//----------------------------------------------------------------------------
+// SECTION
+//---------------------------------------------------------------------------- 
+CAAComponentAddinSection.Title    = "CAA Geometry Creation" ;
+
+//===========================================================================
+// Message catalog for the CAAAfrGeoOperationAdnHeader command headers of the
+// CAAComponentAddin addin
+//===========================================================================
+
+// CAAComponentAddin same file name ****
+CAAComponentAddin.CAAAfrUnionHdr.Category  = "Operation" ;
+CAAComponentAddin.CAAAfrUnionHdr.Title     = "Union" ;
+
+CAAComponentAddin.CAAAfrSubstractHdr.Category  = "Operation" ;
+CAAComponentAddin.CAAAfrSubstractHdr.Title     = "Substract" ;
+
+CAAComponentAddin.CAAAfrFilletHdr.Category  = "Operation" ;
+CAAComponentAddin.CAAAfrFilletHdr.Title     = "Fillet" ;

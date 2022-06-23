@@ -1,0 +1,5 @@
+Title = "[~CAADegEditSketchDlg,Title~ CAADégEdîtSketchDlg]";
+Frame1.Title = "[~CAADegEditSketchDlg,Frame1.Title~ Cømmånd Explanatîon]";
+Frame1.Label1.Title = "[~CAADegEditSketchDlg,Frame1.Label1.Title~ Thîs cømmånd énables yoü create a command]";
+Frame2.Title = "[~CAADegEditSketchDlg,Frame2.Title~ Prøfîlé]";
+Frame2.Label2.Title = "[~CAADegEditSketchDlg,Frame2.Label2.Title~ Skétch]";

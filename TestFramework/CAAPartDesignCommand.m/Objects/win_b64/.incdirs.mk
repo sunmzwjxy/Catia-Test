@@ -1,0 +1,8 @@
+/I"C:\Works\DS\Test\.\TestFramework\CAAPartDesignCommand.m\src"
+/I"C:\Works\DS\Test\.\TestFramework\CAAPartDesignCommand.m\LocalGenerated\win_b64"
+/I"C:\Works\DS\Test\.\TestFramework\PrivateInterfaces"
+/I"C:\Works\DS\Test\.\TestFramework\ProtectedInterfaces"
+/I"C:\Works\DS\Test\.\TestFramework\PublicInterfaces"
+/I"C:\Works\DS\Test\.\TestFramework\ImportedInterfaces\win_b64"
+/I"C:\Works\DS\B42\win_b64\.\tools\include\Windows"
+/I"C:\Works\DS\B42\win_b64\.\tools\include"

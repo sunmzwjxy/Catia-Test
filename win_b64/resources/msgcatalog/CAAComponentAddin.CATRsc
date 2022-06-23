@@ -1,0 +1,15 @@
+//===========================================================================
+// Resource catalog for the CAAAfrGeoOperationAdnHeader command headers of the
+// CAAAfrGeoOperationAdn addin
+//===========================================================================
+
+// CAAComponentAddin same to file name ***
+CAAComponentAddin.CAAAfrUnionHdr.Icon.Focused = "I_CAAUnion";
+CAAComponentAddin.CAAAfrUnionHdr.Icon.Normal = "I_CAAUnion" ;
+
+CAAComponentAddin.CAAAfrSubstractHdr.Icon.Focused = "I_CAASubstract";
+CAAComponentAddin.CAAAfrSubstractHdr.Icon.Normal = "I_CAASubstract" ;
+
+CAAComponentAddin.CAAAfrFilletHdr.Icon.Focused = "I_CAAFillet";
+CAAComponentAddin.CAAAfrFilletHdr.Icon.Normal = "I_CAAFillet" ;
+

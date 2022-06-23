@@ -1,0 +1,7 @@
+CAAComponentAddin.CAAAfrFilletHdr.Title = "[十CAAComponentAddin,din.CAAAfrFilletHdr.Title十一構ソチ－Fillet]";
+CAAComponentAddin.CAAAfrUnionHdr.Category = "[十CAAComponentAddin,n.CAAAfrUnionHdr.Category十一構ソチ－Operation]";
+CAAComponentAddin.CAAAfrSubstractHdr.Category = "[十CAAComponentAddin,AAfrSubstractHdr.Category十一構ソチ－Operation]";
+CAAComponentAddinSection.Title = "[十CAAComponentAddin,mponentAddinSection.Title十一構ソチ－CAA Geometry Creation]";
+CAAComponentAddin.CAAAfrSubstractHdr.Title = "[十CAAComponentAddin,.CAAAfrSubstractHdr.Title十一構ソチ－Substract]";
+CAAComponentAddin.CAAAfrFilletHdr.Category = "[十CAAComponentAddin,.CAAAfrFilletHdr.Category十一構ソチ－Operation]";
+CAAComponentAddin.CAAAfrUnionHdr.Title = "[十CAAComponentAddin,ddin.CAAAfrUnionHdr.Title十一構ソチ－Union]";

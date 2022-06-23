@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+Title = "CAADegEditSketchDlg";
+Frame1.Title = "Command Explanation";
+Frame1.Label1.Title = "This command enables you create a command";
+Frame2.Title = "Profile";
+Frame2.Label2.Title = "Sketch";

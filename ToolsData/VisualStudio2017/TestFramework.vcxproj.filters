@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{681dcde9-502a-478f-b98d-3f278b5140ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{be30f291-b123-4dd9-9408-5fa175433559}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{605399af-8d0b-43c8-98f9-b7707ea12e06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{d828e86f-a5e1-48bc-9a3d-81e0c972c34e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{f52a3b45-32d8-45ac-b268-8a3639365040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{8bfb50de-1ac9-41b9-8a65-635eb3a7d259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{66f8ea28-de50-4727-bf77-98a795c91036}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{dbda121b-7eb0-426c-a1a3-75a61ecb4d4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{b6179fa8-3b01-4b59-aceb-0b3a082eac27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{f8e0ea01-34ab-4031-bd7d-30bd26da5024}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{bed0c138-aed5-4ee3-ad09-dc6b617a8c34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{84923f3c-08c4-4088-8bf1-2986fa43e0f7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\TestFramework\PrivateInterfaces\CAADegCreatePointCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\TestFramework\PrivateInterfaces\CAADegEditSketchCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\TestFramework\ProtectedInterfaces\CAAPartDesignCommand.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\TestFramework\ProtectedInterfaces\TestModuleCommand.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\TestFramework\CNext\code\dictionary\TestFramework.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\I_DELHeaderWkplStamp.png">
+      <Filter>CNext\resources\graphic\icons</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAABackgroundIX.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAABackgroundNT.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAADecorationP1.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAADecorationP2.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAALogoP1IX.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAALogoP1NT.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAALogoP2IX.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAALogoP2NT.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAAProduct.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\CAASplash.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\IF_CAAFrameTriangle.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\IP_CAAFrameTriangle.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAA2Triangles.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAABoundingSphere.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAABox.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACenterGraph.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACircle.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACircleWindow.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAClippingPlane.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAClippingSphere.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACube.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACube.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACustomWindow.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACylinder1.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAACylinder2.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAADegSketcher.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAADimCoord2D.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAEllipse.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAFillet.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAFind.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAFrameTriangle.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAGroupElt.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAHistogram.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAALine.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAMRUAddItem.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAANurbsSurface.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAOffsetSurface.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAPadModif.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAPlane.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAPoint.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAPoint.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAPointsSpaces.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAPolyline.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAProgressClock.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAProgressTask.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAARectangle.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAARevolutionSurface.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAASearch.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAASphere.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAASubstract.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAATorus.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAUnion.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAViewerFeedback.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAXAxis.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAYAxis.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_CAAZAxis.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkAsCAAAfrGeoAnalysisWkb.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkAsCAAAfrGeoAnalysisWkb.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkAsCAAAfrGeoCreationWkb.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkAsCAAAfrGeoCreationWkb.png">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkCAAAfrGeoAnalysisWkb.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkCAAAfrGeoCreationWkb.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkNvCAAAfrGeoAnalysisWkb.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\graphic\icons\normal\I_WkNvCAAAfrGeoCreationWkb.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAAComponentAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAAComponentAddin.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAACreatePoingDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAACreatePoingDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAADegEditSketchDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAADegEditSketchDlg.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAAPartDesignAddin.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\CNext\resources\msgcatalog\CAAPartDesignAddin.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\TestFramework\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\TestFramework\IdentityCard\README.md">
+      <Filter>IdentityCard</Filter>
+    </None>
+  </ItemGroup>
+</Project>

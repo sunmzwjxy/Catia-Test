@@ -1,0 +1,57 @@
+// COPYRIGHT DASSAULT SYSTEMES 1999
+
+//===========================================================================
+// Resource catalog for the CAAPartDesignAddin command headers of the
+// CAAAfrGeometryWks workshop
+//===========================================================================
+
+CAAPartDesignAddin.CAAAfrPointHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrPointHdr.Icon.Normal = "I_CAAPoint" ;
+
+CAAPartDesignAddin.CAAAfrLineHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrLineHdr.Icon.Normal = "I_CAALine" ;
+
+CAAPartDesignAddin.CAAAfrCircleHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrCircleHdr.Icon.Normal = "I_CAACircle" ;
+
+CAAPartDesignAddin.CAAAfrEllipseHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrEllipseHdr.Icon.Normal = "I_CAAEllipse" ;
+
+CAAPartDesignAddin.CAAAfrPlaneHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrPlaneHdr.Icon.Normal = "I_CAAPlane" ;
+
+CAAPartDesignAddin.CAAAfrTriangleHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrTriangleHdr.Icon.Normal = "I_CAAFrameTriangle" ;
+
+CAAPartDesignAddin.CAAAfrRectangleHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrRectangleHdr.Icon.Normal = "I_CAARectangle" ;
+
+CAAPartDesignAddin.CAAAfrPolylineHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrPolylineHdr.Icon.Normal = "I_CAAPolyline" ;
+
+CAAPartDesignAddin.CAAAfrPolylineBy2TrianglesHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrPolylineBy2TrianglesHdr.Icon.Normal = "I_CAA2Triangles" ;
+
+CAAPartDesignAddin.CAAAfrExploreHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrExploreHdr.LongHelpId = "CAAPartDesignAddin.CAAAfrExploreHdr" ;
+
+CAAPartDesignAddin.CAAAfrNormalXHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrNormalXHdr.Icon.Normal = "I_CAAXAxis" ;
+
+CAAPartDesignAddin.CAAAfrNormalYHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrNormalYHdr.Icon.Normal = "I_CAAYAxis" ;
+
+CAAPartDesignAddin.CAAAfrNormalZHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrNormalZHdr.Icon.Normal = "I_CAAZAxis" ;
+
+CAAPartDesignAddin.CAAAfrComputeHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrListFormatHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrQueryExploreHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+CAAPartDesignAddin.CAAAfrAnalysisHdr.HelpRsc = "CAAApplicationFrameEduHelpForCommands" ;
+
+//===========================================================================
+//	Test for Open sketch from Dialog CMD
+//	Jimmy Sun from DS
+//===========================================================================
+CAAPartDesignAddin.CAADegEditSketchHdr.HelpRsc = "Edit Sketch from Dialog" ;
+CAAPartDesignAddin.CAADegEditSketchHdr.Icon.Normal = "I_CAAPadModif" ;

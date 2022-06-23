@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+Title = "CAACreatePoingDlg";
+Label1.Title = "X";
+Label2.Title = "Y";
+Label3.Title = "Z";

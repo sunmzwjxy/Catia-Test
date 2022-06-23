@@ -1,0 +1,7 @@
+CAAComponentAddin.CAAAfrFilletHdr.Title = "[~CAAComponentAddin,din.CAAAfrFilletHdr.Title~ Fîllét]";
+CAAComponentAddin.CAAAfrUnionHdr.Category = "[~CAAComponentAddin,n.CAAAfrUnionHdr.Category~ Opéråtîøn]";
+CAAComponentAddin.CAAAfrSubstractHdr.Category = "[~CAAComponentAddin,AAfrSubstractHdr.Category~ Opéråtîøn]";
+CAAComponentAddinSection.Title = "[~CAAComponentAddin,mponentAddinSection.Title~ CAA Géømetry Creåtîon]";
+CAAComponentAddin.CAAAfrSubstractHdr.Title = "[~CAAComponentAddin,.CAAAfrSubstractHdr.Title~ Sübstråct]";
+CAAComponentAddin.CAAAfrFilletHdr.Category = "[~CAAComponentAddin,.CAAAfrFilletHdr.Category~ Opéråtîøn]";
+CAAComponentAddin.CAAAfrUnionHdr.Title = "[~CAAComponentAddin,ddin.CAAAfrUnionHdr.Title~ Unîøn]";

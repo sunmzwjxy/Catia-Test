@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\TestFramework\TestModule.m\Objects\win_b64\mkcsc\TestModule.cscdb|.\TestFramework\TestModule.m
+RTV/001/CUS .\win_b64\code\bin\TestModule.dll|.\TestFramework\TestModule.m
+BTV/000/CUS .\win_b64\code\lib\TestModule.lib|.\TestFramework\TestModule.m
+INT/000/CUS .\win_b64\code\bin\TestModule.pdb|.\TestFramework\TestModule.m
+INT/000/CUS .\win_b64\code\lib\TestModule.exp|.\TestFramework\TestModule.m
+@type=SHAREDLIBRARY
+@clr=false
+@kind=Native
+@deliverable=true
+@built=true

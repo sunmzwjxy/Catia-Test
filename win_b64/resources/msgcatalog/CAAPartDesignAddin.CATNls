@@ -1,0 +1,63 @@
+//----------------------------------------------------------------------------
+// SECTION
+//---------------------------------------------------------------------------- 
+CAAPartDesignAddinSection.Title    = "CAA Geometry Creation" ;
+
+// COPYRIGHT DASSAULT SYSTEMES 1999
+
+//===========================================================================
+// Message catalog for the CAAAfrGeometryWksHeader command headers of the
+// CAAAfrGeometryWks app
+//===========================================================================
+
+CAAPartDesignAddin.CAAAfrQueryExploreHdr.Title     = "Query" ;
+
+CAAPartDesignAddin.CAAAfrListFormatHdr.Title     = "List" ;
+
+CAAPartDesignAddin.CAAAfrComputeHdr.Title     = "Compute" ;
+
+CAAPartDesignAddin.CAAAfrPointHdr.Title     = "Point" ;
+CAAPartDesignAddin.CAAAfrPointHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrLineHdr.Title     = "Line" ;
+CAAPartDesignAddin.CAAAfrLineHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrCircleHdr.Title     = "Circle" ;
+CAAPartDesignAddin.CAAAfrCircleHdr.Category  = "Element" ;
+ 
+CAAPartDesignAddin.CAAAfrEllipseHdr.Title     = "Ellipse" ;
+CAAPartDesignAddin.CAAAfrEllipseHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrPlaneHdr.Title     = "Plane" ;
+CAAPartDesignAddin.CAAAfrPlaneHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrTriangleHdr.Title     = "Triangle" ;
+CAAPartDesignAddin.CAAAfrTriangleHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrRectangleHdr.Title     = "Rectangle" ;
+CAAPartDesignAddin.CAAAfrRectangleHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrPolylineHdr.Title     = "Polyline" ;
+CAAPartDesignAddin.CAAAfrPolylineHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrPolylineBy2TrianglesHdr.Title     = "Polyline by 2 triangles" ;
+CAAPartDesignAddin.CAAAfrPolylineBy2TrianglesHdr.Category  = "Element" ;
+
+CAAPartDesignAddin.CAAAfrNormalXHdr.Category  = "View" ;
+CAAPartDesignAddin.CAAAfrNormalXHdr.Title     = "Normal X" ;
+
+CAAPartDesignAddin.CAAAfrNormalYHdr.Category  = "View" ;
+CAAPartDesignAddin.CAAAfrNormalYHdr.Title     = "Normal Y" ;
+
+CAAPartDesignAddin.CAAAfrNormalZHdr.Category  = "View" ;
+CAAPartDesignAddin.CAAAfrNormalZHdr.Title     = "Normal Z" ;
+
+CAAPartDesignAddin.CAAAfrAnalysisHdr.Category  = "Tools" ;
+CAAPartDesignAddin.CAAAfrAnalysisHdr.Title     = "Analysis" ;
+
+//===========================================================================
+//	Test for Open sketch from Dialog CMD
+//	Jimmy Sun from DS
+//===========================================================================
+CAAPartDesignAddin.CAADegEditSketchHdr.Category  = "View" ;
+CAAPartDesignAddin.CAADegEditSketchHdr.Title     = "Edit Sketch" ;

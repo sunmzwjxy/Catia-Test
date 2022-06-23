@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\TestFramework\CAAPartDesignCommand.m\Objects\win_b64\mkcsc\CAAPartDesignCommand.cscdb|.\TestFramework\CAAPartDesignCommand.m
+RTV/001/CUS .\win_b64\code\bin\CAAPartDesignCommand.dll|.\TestFramework\CAAPartDesignCommand.m
+BTV/000/CUS .\win_b64\code\lib\CAAPartDesignCommand.lib|.\TestFramework\CAAPartDesignCommand.m
+INT/000/CUS .\win_b64\code\bin\CAAPartDesignCommand.pdb|.\TestFramework\CAAPartDesignCommand.m
+INT/000/CUS .\win_b64\code\lib\CAAPartDesignCommand.exp|.\TestFramework\CAAPartDesignCommand.m
+@type=SHAREDLIBRARY
+@clr=false
+@kind=Native
+@deliverable=true
+@built=true
